@@ -18,7 +18,7 @@ $ mvn spring-boot:run
 The app will start running at http://localhost:8080.
 
 ### Usage
-
+```sh
 GET /getAllAccount
 
 GET /searchById/{id}
@@ -30,41 +30,6 @@ POST /create
 PUT /update/{id}
 
 DELETE /delete/{id}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Install depedencies
-
-```sh
-$ mvn clean install
-```
-
-### Start
-
-```sh
-$ mvn spring-boot:run
-```
-or
-
-```sh
-$ java -jar target/kutuphane-0.0.1-SNAPSHOT.jar
 ```
 
 ### Usage
