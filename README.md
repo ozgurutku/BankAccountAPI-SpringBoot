@@ -10,7 +10,7 @@ Java 11.0.9, Maven
 ```sh
 $ git clone git@github.com:ozgurutku/SpringBoot-BankAccountAPI.git
 ```
-2- Swich to snapshot location
+2- Swich to application file location
 ```sh
 cd SpringBoot-BankAccountAPI
 ```
