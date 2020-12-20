@@ -31,10 +31,3 @@ PUT /update/{id}
 
 DELETE /delete/{id}
 ```
-
-### Usage
-For admin use
-`Admin user name = ozgurutku Admin password = ozgurutku`
-
-For member use
-`register as a member`
