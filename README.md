@@ -10,7 +10,7 @@ Java 11.0.9, Maven
 ```sh
 $ git clone git@github.com:ozgurutku/SpringBoot-BankAccountAPI.git
 ```
-2. Build and run the app using maven
+2.Build and run the app using maven
 ```sh
 $ mvn spring-boot:run
 ```
