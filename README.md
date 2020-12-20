@@ -3,8 +3,7 @@
 BankAccountAPI allows users to perform CRUD transactions on a simple bank application.
 
 ### Dependencies
-Java 11.0.9
-Maven
+Java 11.0.9, Maven
 
 ### Setup
 1.Clone the application
