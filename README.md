@@ -6,11 +6,15 @@ BankAccountAPI allows users to perform CRUD transactions on a simple bank applic
 Java 11.0.9, Maven
 
 ### Setup
-1.Clone the application
+1- Clone the application
 ```sh
 $ git clone git@github.com:ozgurutku/SpringBoot-BankAccountAPI.git
 ```
-2.Build and run the app using maven
+2- Swich to snapshot location
+```sh
+cd SpringBoot-BankAccountAPI
+```
+3- Build and run the app using maven
 ```sh
 $ mvn spring-boot:run
 ```
